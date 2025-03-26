@@ -1,4 +1,6 @@
-## Hi there 👋
+## hey there!
+
+I'm gonna let you in a little secret - I don't know how to code very well.
 
 <!--
 **semanticss/semanticss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
