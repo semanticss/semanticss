@@ -1,6 +1,13 @@
-## hey there!
+<link href='https://fonts.googleapis.com/css?family=DM Sans' rel='stylesheet'>
 
-I'm gonna let you in a little secret - I don't know how to code very well.
+
+<h1 style="font-family: 'DM Sans"> Hi, I'm Hudson Benites.</h1>
+
+
+<h3 style="font-family: 'DM Sans'"> A little bit about me:</h2>
+<p style="font-family: 'DM Sans', sans-serif; font-size: 14px"> I'm a senior at Minnetonka High School, interested in 
+<span color="#FBFF12">applied mathematics and game theory.</span> I have intermediate experience with Python, and am always looking for
+new opportunities.</p>
 
 <!--
 **semanticss/semanticss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
