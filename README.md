@@ -6,8 +6,7 @@
 
 <h3 style="font-family: 'DM Sans'"> A little bit about me:</h2>
 <p style="font-family: 'DM Sans', sans-serif; font-size: 14px"> I'm a senior at Minnetonka High School, interested in 
-<span color="#FBFF12">applied mathematics and game theory.</span> I have intermediate experience with Python, and am always looking for
-new opportunities.</p>
+<span color="#FBFF12">applied mathematics and game theory.</span> I have intermediate experience with Python, image diffusion models, nash equilibrium approximations via regret minimization algorithms, and monte carlo simulations. I have more extensive experience with differential equations and linear algebra.</p>
 
 <!--
 **semanticss/semanticss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
